@@ -1,0 +1,19 @@
+{
+  "name": "𝐐𝐮𝐢𝐜𝐤 𝐒𝐭𝐨𝐫𝐞",
+  "version": "1.0.0",
+  "description": "Dev by : q8f25",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
